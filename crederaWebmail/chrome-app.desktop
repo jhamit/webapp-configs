@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Credera Web Mail
+Exec=/opt/google/chrome/google-chrome "--app=https://webmail.credera.com" --user-data-dir=/home/jhamit/Documents/system/webapps/crederaWebmail/config
+Icon=/home/jhamit/Documents/system/webapps/crederaWebmail/icon.png
+StartupWMClass=webmail.credera.com

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Credera Web Mail
+Comment=Webmail for Credera.com
+Icon=/home/jhamit/Documents/system/webapps/crederaWebmail/icon.png
+Exec=/home/jhamit/Documents/system/webapps/crederaWebmail/app.sh
+Type=Application
+Terminal=0

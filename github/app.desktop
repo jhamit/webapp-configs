@@ -1,0 +1,8 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GitHub
+Comment=WebApp for GitHub.com
+Icon=/home/jhamit/Documents/system/webapps/github/github-icon.png
+Exec=/home/jhamit/Documents/system/webapps/github/app.sh
+Type=Application
+Terminal=0

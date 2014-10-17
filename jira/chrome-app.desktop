@@ -1,0 +1,9 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Pep Boys Jira
+Exec=/opt/google/chrome/google-chrome "--app=https://everything4less.atlassian.net" --user-data-dir=/home/jhamit/Documents/system/webapps/jira/config
+Icon=/home/jhamit/Documents/system/webapps/jira/icon.png
+StartupWMClass=everything4less.atlassian.net
